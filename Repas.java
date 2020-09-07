@@ -7,4 +7,10 @@ class Repas { //num1
 		this.numero = numero;
 		this.date = date;
 	}//version 3
+	public int getNumero(){
+		return numero;
+	}
+	public void setNumero(int numero){
+		this.numero = numero;
+	}
 }*/
